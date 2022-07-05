@@ -1,2 +1,2 @@
 # Data-Mining-Assignments
-1st semester Mtech Assignment
+1st semester Mtech Assignments
